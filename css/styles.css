@@ -114,7 +114,9 @@ color:var(--logo-cl);
     letter-spacing: 0.02em;
 }
 .nav-list .current {
+    position: relative;
     color: var(--accent-cl);
+
 }
 .nav-link{
     color: var(--main-text-cl);
