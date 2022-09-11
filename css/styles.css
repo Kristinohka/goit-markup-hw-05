@@ -102,13 +102,13 @@ color:var(--logo-cl);
     margin-right: 50px;
 }
 .nav-list{
+   
     display: flex;
     margin-left: 93px;
 }
 
 .nav-item{
-    content: '';
-    position: relative;
+    
     font-size: 14px;
     line-height: calc(16 / 14);
     color: var(--main-text-cl);
@@ -116,6 +116,8 @@ color:var(--logo-cl);
     letter-spacing: 0.02em;
 }
 .nav-list .current {
+    content: '';
+    position: relative;
     color: var(--accent-cl);
 }
 .nav-link{
