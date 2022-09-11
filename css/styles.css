@@ -114,12 +114,9 @@ color:var(--logo-cl);
     color: var(--main-text-cl);
     font-weight: 500;
     letter-spacing: 0.02em;
-
 }
 .nav-list .current {
-    
     color: var(--accent-cl);
-
 }
 .nav-link{
     color: var(--main-text-cl);
@@ -179,7 +176,6 @@ color:var(--logo-cl);
     align-items: center;
 }
 .main{
-
 }
 
 .main-foto{
